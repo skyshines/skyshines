@@ -10,9 +10,9 @@ I'm Akashdeep Singh, a Computer Engineering student passionate about software de
 - 🤝 Actively involved in teaching and mentoring roles as a Team Lead and Instructor at Khalsa Aid and Coding Cell, AIT
 - 🛠️ Developed full-stack applications like Chatskoot, Collaborator, and B-Tree Project, showcasing my expertise in various technologies including JavaScript, MongoDB, Express.js, React.js, Node.js, Socket.io, Java, AWT, and Swing
 - 📚 Excited about learning and collaborating on new projects to solve real-world problems through code
-
+<!---
 ---
-
+/*
 ## Work Experience
 
 **PEPCODING | Software Developer - Internship**  
@@ -95,7 +95,7 @@ June ’21 to June ’22
 - Mobile Photography
 
 ---
-
+-->
 Feel free to reach out to me via [email](mailto:akashdeepsinghait@gmail.com) or [LinkedIn](https://www.linkedin.com/in/skyshines/) for any collaborations or inquiries.
 
 [![Akashdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyshines)](https://github.com/anuraghazra/github-readme-stats)
