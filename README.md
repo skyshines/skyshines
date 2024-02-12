@@ -2,7 +2,7 @@
 
 I'm Akashdeep Singh, a Computer Engineering student passionate about software development and problem-solving.
 
-- 🎓 Currently pursuing B.E. in Computer Engineering at Army Institute of Technology, Pune (2015-2019)
+- 🎓 Currently pursuing B.E. in Computer Engineering at Army Institute of Technology, Pune (2021-2025)
 - 💻 Experienced in Java, C++, Python, and MySQL
 - 🌐 Skilled in web development with HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB
 - 🏆 Achieved Global Ranks in Codeforces competitions and won several coding competitions
