@@ -1,6 +1,6 @@
 # 👋 Akashdeep Singh
 💻 **Software Engineer - 1** | 📍 Pune, Maharashtra (Hybrid)  
-📞 [+91 9115632424](tel:+919115632424) | ✉️ [akashdeepsingh30401@gmail.com](mailto:akashdeepsingh30401@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/akashdeepsingh30401/) | 🐙 [GitHub](https://github.com/skyshines) | 🧩 [LeetCode](https://leetcode.com/u/skyshines/)
+✉️ [akashdeepsingh30401@gmail.com](mailto:akashdeepsingh30401@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/akashdeepsingh30401/) | 🐙 [GitHub](https://github.com/skyshines)
 ---
 ## 🛠️ Technical Skills
 | Category | Technologies & Fundamentals |
